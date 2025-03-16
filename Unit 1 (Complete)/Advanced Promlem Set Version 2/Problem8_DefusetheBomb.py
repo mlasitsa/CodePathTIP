@@ -46,7 +46,7 @@ def defuse(code, k):
     extended = code * 2
     result = []
 
-    # If k > 0: sum the next k elements
+    # If k > 0 sum the next k elements
     if k > 0:
         for i in range(n):
             result.append(sum(extended[i + 1: i + 1 + k]))
