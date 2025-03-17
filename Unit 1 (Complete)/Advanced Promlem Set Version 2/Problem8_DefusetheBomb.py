@@ -5,7 +5,7 @@ Batman has a bomb to defuse, and his time is running out! His butler, Alfred, is
 To decrypt the code, Batman must replace every number. All the numbers are replaced simultaneously.
 
 If k > 0, replace the ith number with the sum of the next k numbers.
-If k < 0, replace the ith number with the sum of the previous k numbers.
+If k < 0, replace the ith number with the sum of the previous k numbers
 If k == 0, replace the ith number with 0.
 As code is circular, the next element of code[n-1] is code[0], and the previous element of code[0] is code[n-1].
 
