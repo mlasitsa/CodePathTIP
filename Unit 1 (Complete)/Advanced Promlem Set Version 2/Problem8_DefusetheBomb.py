@@ -1,6 +1,6 @@
 '''
 Problem 8: Defuse the Bomb
-Batman has a bomb to defuse, and his time is running out! His butler, Alfred, is on the phone providing him with a circular array code of length n and key k.
+Batman has a bomb to defuse, and his time is running out! His butler, Alfred, is on the phone providing him with a circular array code of length n and key k
 
 To decrypt the code, Batman must replace every number. All the numbers are replaced simultaneously.
 
